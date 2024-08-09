@@ -1,0 +1,25 @@
+{
+  "files.associations": {
+    "iostream": "cpp",
+    "typeinfo": "cpp",
+    "random": "cpp",
+    "tuple": "cpp",
+    "vector": "cpp",
+    "ostream": "cpp",
+    "bitset": "cpp",
+    "algorithm": "cpp",
+    "format": "cpp",
+    "chrono": "cpp",
+    "functional": "cpp",
+    "array": "cpp",
+    "any": "cpp",
+    "string_view": "cpp",
+    "ranges": "cpp",
+    "span": "cpp",
+    "stacktrace": "cpp",
+    "regex": "cpp",
+    "typeindex": "cpp",
+    "string": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
+}
